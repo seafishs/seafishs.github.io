@@ -1,2 +1,0 @@
-# seafishs.github.io
-blog
